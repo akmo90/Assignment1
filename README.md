@@ -77,6 +77,7 @@ Execution time(OpenMP): 1 ms
 <p align="center">
   <img src="images/task4.png" style="width: %; height: auto;">
 </p>
+
 Файл: task4.cpp
 Результат:
 ```html
@@ -84,6 +85,7 @@ Array size: 5000000
 Sequential average: 50.4764, time: 8 ms
 Parallel average (OpenMP): 50.4764, time: 3 ms
 ```
+
 #### Примеры компиляции
 ```html
 g++ task1_dynamic_array.cpp -o task1
